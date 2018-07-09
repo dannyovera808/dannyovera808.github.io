@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>10 Cans of Beans</title>
+</head> 
+<body> 
+<h1>Welcome to the World Cup</h1>
+<p>My name is danny  I won a soccer tournament yesterday with my team. our name is Man United. We played amazing and beat our only rival and only competition and oponent 5-1. Due to my amazing defending skills i helped to not let theother team score. 
+and i am from good ole Florida i like socccer i watch soccer i play soccer. i wish mexico won the world cup but i am now rooting for France</p>
+<img src="img_chania.jpg" alt="Flowers in Chania">
+
+
+
+</body> in a blend
+er 
+</html>
